@@ -25,5 +25,5 @@ except ModuleNotFoundError:
     data_prefix = "data/"
 ```
 
-Once you're done with accessing the Data on your notebook Simply Run the cells one by one (ensuring each each to run smoothly)
+Once you're done with accessing the Data on your notebook Simply Run the cells one by one (ensuring each cell to run smoothly)
 
